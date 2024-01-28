@@ -1,0 +1,1 @@
+print("british gurkhas recruitment process started from march 21st")
